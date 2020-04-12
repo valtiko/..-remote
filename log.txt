@@ -1,0 +1,17 @@
+commit f11b5b11e5bc0148f5c6fc2f4a679a72a8744596
+Author: Piotr <vipperros@gmail.com>
+Date:   Sun Apr 12 22:14:52 2020 +0200
+
+    smieci
+
+commit ff9665122cf5c78b23a147f5dbb45d4aafa0e063
+Author: Piotr <vipperros@gmail.com>
+Date:   Sun Apr 12 22:13:30 2020 +0200
+
+    ignorowanie doc
+
+commit 93d53ab5609701df59eccd909aa804981ce90fbe
+Author: Piotr <vipperros@gmail.com>
+Date:   Sun Apr 12 21:13:22 2020 +0200
+
+    ryba
