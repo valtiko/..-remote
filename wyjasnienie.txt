@@ -1,0 +1,1 @@
+brakuje roznicy.txt bo nie zostal zacommitowany 
