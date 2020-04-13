@@ -1,5 +1,17 @@
 W rzece Heraklita
+<<<<<<< HEAD
 dorsz łowi ryby,
 dorsz ćwiartuje rybę ostrą rybą,
 dorsz buduje rybę, ryba mieszka w rybie,
 dorsz ucieka z oblężonej ryby.
+=======
+ryba łowi ryby,
+ryba ćwiartuje rybę ostrą rybą,
+ryba buduje rybę, ryba mieszka w rybie,
+ryba ucieka z oblężonej ryby.
+W rzece Heraklita
+ryba kocha rybę,
+twoje oczy – powiada – lśnią jak ryby w niebie,
+chcę płynąć razem z tobą do wspólnego morza,
+najpiękniejsza z ławicy.
+>>>>>>> bd267c28911dc7a5b592a49542cdb49b1446583c
